@@ -1,3 +1,4 @@
+此为个人期末作业，实现效果很差，不建议任何人参考代码，但是下列参考资料可能能帮到你
 参考的资料
 [1] 朱永清——基于 MATLAB 的车牌识别系统设计——2021 年 10 月——
 https://gitee.com/mrquincy/vehicleBrandRecognition, 2024 年 5 月 21 日访问
